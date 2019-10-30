@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Anderson/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Anderson/static/js/main.c754e25c.chunk.js",
+    "main.js.map": "/Anderson/static/js/main.c754e25c.chunk.js.map",
+    "runtime-main.js": "/Anderson/static/js/runtime-main.fc0e8a82.js",
+    "runtime-main.js.map": "/Anderson/static/js/runtime-main.fc0e8a82.js.map",
+    "static/js/2.946ea795.chunk.js": "/Anderson/static/js/2.946ea795.chunk.js",
+    "static/js/2.946ea795.chunk.js.map": "/Anderson/static/js/2.946ea795.chunk.js.map",
+    "index.html": "/Anderson/index.html",
+    "precache-manifest.0321c0cf4e0dbc5200e9d8d3d8946cf4.js": "/Anderson/precache-manifest.0321c0cf4e0dbc5200e9d8d3d8946cf4.js",
+    "service-worker.js": "/Anderson/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Anderson/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Anderson/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc0e8a82.js",
+    "static/js/2.946ea795.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.c754e25c.chunk.js"
+  ]
+}
